@@ -1,6 +1,8 @@
 <h1> Calculatrice avec javaFx </h1>
 
-https://img.shields.io/github/languages/code-size/MAGICTNT/Calculatrice_javaFx?style=for-the-badge
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+
 
 <p>Une calculatrice simple avec comme fonction développer, les additions, les soustractions, les multiplications et les divisions.</p>
 
